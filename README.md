@@ -12,8 +12,15 @@ Sou um **Desenvolvedor de Software** apaixonado por criar soluções robustas e 
 
 ## 🛠️ Habilidades
 
-- **Linguagens & Frameworks:** JavaScript, React, Node.js, C#, .NET
-- **Bancos de Dados:** SQL
+<div>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff&style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".NET" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="SQL" />
+</div>
+
 - **Desenvolvimento Full Stack:** Do backend com APIs até frontends modernos e responsivos
 
 ## 🌎 Idiomas
