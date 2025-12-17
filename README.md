@@ -146,14 +146,6 @@ Sou um **Desenvolvedor de Software** apaixonado por criar soluções **robustas*
   </a>
 </div>
 
----
-
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
