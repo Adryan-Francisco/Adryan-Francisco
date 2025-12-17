@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adryan-Francisco.Adryan-Francisco&left_color=3b82f6&right_color=10b981&left_text=Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=Adryan-Francisco&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Adryan-Francisco?label=Seguidores&style=flat&logo=github&color=3b82f6" />
 </div>
 
@@ -160,5 +160,4 @@ Sou um **Desenvolvedor de Software** apaixonado por criar soluções **robustas*
   
   ### ⭐ Gostou do meu perfil? Deixe uma estrela em algum projeto!
   
-  <img src="https://komarev.com/ghpvc/?username=Adryan-Francisco&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
