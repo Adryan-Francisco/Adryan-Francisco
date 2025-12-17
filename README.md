@@ -1,90 +1,160 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Adryan+Francisco;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Adryan%20Francisco&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlign=50&descAlignY=60" />
 </div>
 
-<h1 align="center">👋 Seja bem-vindo ao meu perfil!</h1>
+<h2 align="center">👋 Olá! Bem-vindo ao meu perfil!</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adryan-Francisco&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-## 🚀 Sobre mim
-
-Sou um **Desenvolvedor de Software** apaixonado por criar soluções robustas e escaláveis. Adoro enfrentar desafios do mundo real e estou sempre explorando novas tecnologias para construir aplicações melhores e mais inteligentes.
-
-- 💻 Especialista em **JavaScript**, **React**, **.NET**, **Node.js**, **C#** e **SQL**
-- 🌱 Sempre aprendendo e evoluindo
-- 🎯 Focado em desenvolvimento **Full Stack**
-- 🌍 Falo **Português** (nativo) e **Inglês** (intermediário)
-
-## 🛠️ Tecnologias & Ferramentas
-
 <div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222&style=for-the-badge)
-  ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff&style=for-the-badge)
-  ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff&style=for-the-badge)
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
-  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adryan-Francisco.Adryan-Francisco&left_color=3b82f6&right_color=10b981&left_text=Visitantes" />
+  <img src="https://img.shields.io/github/followers/Adryan-Francisco?label=Seguidores&style=flat&logo=github&color=3b82f6" />
 </div>
 
-## 📊 Estatísticas do GitHub
+---
+
+## 🚀 Sobre Mim
+
+Sou um **Desenvolvedor de Software** apaixonado por criar soluções **robustas**, **escaláveis** e **inovadoras**. 
+
+- 💻 Especialista em **JavaScript**, **TypeScript**, **React**, **.NET**, **Node.js**, **C#** e **SQL**
+- 🌱 Sempre explorando novas tecnologias e aprendendo continuamente
+- 🎯 Focado em desenvolvimento **Full Stack** com experiência em **Frontend** e **Backend**
+- 🔧 Experiência com **Cloud Computing** (AWS) e arquiteturas modernas
+- 🌍 **Idiomas:** Português (Nativo) | Inglês (Intermediário)
+- ⚡ **Fun fact:** Adoro enfrentar desafios complexos e transformá-los em soluções elegantes!
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" height="40" alt="frontend technologies" />
+</div>
+
+### Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,go" height="40" alt="backend technologies" />
+</div>
+
+### Database & Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws" height="40" alt="database and cloud" />
+</div>
+
+### Tools & Others
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,npm,figma" height="40" alt="tools" />
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adryan-Francisco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adryan-Francisco&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+---
+
+## 💼 Projetos em Destaque
+
+### 🥤 Sistema Açaí
+[![Stars](https://img.shields.io/github/stars/Adryan-Francisco/sistema-acai?style=social)](https://github.com/Adryan-Francisco/sistema-acai)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/Adryan-Francisco/sistema-acai)
+
+**Plataforma completa de gerenciamento e e-commerce para loja de açaí**
+
+🎯 **Destaques:**
+- 📦 Gerenciamento de pedidos em tempo real
+- 📊 Dashboard administrativo com analytics
+- 🔐 Autenticação segura com JWT
+- 📈 Controle de estoque com alertas automáticos
+- ⭐ Sistema de avaliações de produtos
+
+**Tech Stack:** React • TypeScript • Node.js • Express • Supabase • Tailwind CSS
+
+[🔗 Ver Projeto](https://github.com/Adryan-Francisco/sistema-acai)
+
+---
+
+### 📊 SEV - Sistema de Estoque e Vendas
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/Adryan-Francisco/SEV)
+
+**Sistema de controle de estoque e vendas para gerenciamento empresarial**
+
+🎯 **Destaques:**
+- 📦 Controle completo de inventário
+- 💰 Gestão de vendas e transações
+- 📊 Relatórios e métricas de desempenho
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+[🔗 Ver Projeto](https://github.com/Adryan-Francisco/SEV)
+
+---
+
+### 🏡 Controle de Imóveis Rurais
+[![Stars](https://img.shields.io/github/stars/Adryan-Francisco/controle-imoveis-react?style=social)](https://github.com/Adryan-Francisco/controle-imoveis-react)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/Adryan-Francisco/controle-imoveis-react)
+
+**Aplicação para controle e gerenciamento de imóveis rurais**
+
+🎯 **Destaques:**
+- 🏡 Cadastro e gestão de propriedades rurais
+- 🗺️ Interface moderna e intuitiva
+- 🔄 Sincronização em tempo real com Supabase
+
+**Tech Stack:** React • JavaScript • Supabase
+
+[🔗 Ver Projeto](https://github.com/Adryan-Francisco/controle-imoveis-react)
+
+---
+
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adryan-Francisco&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🎯 Principais Projetos
-
-<div align="center">
-
-[![Controle de Estoque](https://github-readme-stats.vercel.app/api/pin/?username=Adryan-Francisco&repo=controle-estoque&theme=tokyonight)](https://github.com/Adryan-Francisco/controle-estoque)
-[![Controle de Imóveis](https://github-readme-stats.vercel.app/api/pin/?username=Adryan-Francisco&repo=controle-imoveis-react&theme=tokyonight)](https://github.com/Adryan-Francisco/controle-imoveis-react)
-
-[![S-E-V](https://github-readme-stats.vercel.app/api/pin/?username=Adryan-Francisco&repo=S-E-V&theme=tokyonight)](https://github.com/Adryan-Francisco/S-E-V)
-[![Web API .NET + React](https://github-readme-stats.vercel.app/api/pin/?username=Adryan-Francisco&repo=Web-Api-em-.Net-React&theme=tokyonight)](https://github.com/Adryan-Francisco/Web-Api-em-.Net-React)
-
-</div>
-
-### 💼 Destaques
-
-- 📦 **[Controle de Estoque](https://github.com/Adryan-Francisco/controle-estoque)** - Sistema de controle de estoque projetado para eficiência e confiabilidade
-- 🏠 **[Controle de Imóveis (React)](https://github.com/Adryan-Francisco/controle-imoveis-react)** - Sistema moderno de gestão de imóveis construído com React
-- ⚡ **[S-E-V](https://github.com/Adryan-Francisco/S-E-V)** - Projeto focado em soluções inovadoras
-- 🌾 **[GranjaTech](https://github.com/felipebianchini2006/GranjaTech)** - Projeto colaborativo levando tecnologia para o agronegócio
-- 🔗 **[Web API em .Net + React](https://github.com/Adryan-Francisco/Web-Api-em-.Net-React)** - Aplicação full stack integrando .NET e React
-
-## 📈 Atividade de Desenvolvimento
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adryan-Francisco&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adryan-Francisco&theme=tokyonight&no-frame=true&row=1&column=7" alt="Troféus" />
+  <img src="https://raw.githubusercontent.com/Adryan-Francisco/Adryan-Francisco/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+## 📫 Como me encontrar
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/seu-numero" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://discord.com/users/seu-id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
+
+---
+
+## 📈 Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
   
-  ### 💬 "Código limpo não é escrito seguindo regras. É escrito com carinho." 
+  ### ⭐ Gostou do meu perfil? Deixe uma estrela em algum projeto!
   
-  **Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.** ✨
-  
+  <img src="https://komarev.com/ghpvc/?username=Adryan-Francisco&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
