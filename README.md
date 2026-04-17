@@ -42,7 +42,7 @@ Sou um **Desenvolvedor Full Stack** focado em criar aplicações práticas, orga
 
 ### Banco de Dados e Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode,visualstudio" height="40" alt="database and tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,docker,vscode,visualstudio" height="40" alt="database and tools" />
 </div>
 
 ---
@@ -57,6 +57,25 @@ Sou um **Desenvolvedor Full Stack** focado em criar aplicações práticas, orga
 ---
 
 ## 💼 Projetos em destaque
+
+### 💈 BarberFlow
+[![Private Project](https://img.shields.io/badge/Projeto-Privado-0f172a?style=flat&logo=github&logoColor=white)](https://github.com/Adryan-Francisco/barbearia-saas)
+
+O **BarberFlow** é uma plataforma SaaS voltada para **gestão de barbearias**, criada para otimizar agendamentos, organização interna e comunicação com clientes, reunindo tudo em um sistema moderno e escalável.
+
+**Destaques:**
+- 📅 Gestão de agendamentos e operação do negócio
+- 🔔 Central de notificações integrada
+- 🧩 Arquitetura full stack com separação entre **frontend** e **backend**
+- 📚 Estrutura documentada para manutenção e crescimento do sistema
+- 🚀 Deploy em ambiente real utilizando **VPS**
+- ⚙️ Projeto pensado para escalabilidade, atualizações contínuas e produção
+
+**Tech Stack:** TypeScript • Frontend • Backend • Prisma • Docker • Supabase • VPS
+
+[🔗 Ver projeto](https://github.com/Adryan-Francisco/barbearia-saas)
+
+---
 
 ### 🧾 SIC
 [![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/Adryan-Francisco/SIC)
@@ -154,10 +173,10 @@ Meu portfólio pessoal desenvolvido para apresentar projetos, habilidades e minh
   <a href="https://github.com/Adryan-Francisco" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:adryanfrancisco62@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/adryan-francisco" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
