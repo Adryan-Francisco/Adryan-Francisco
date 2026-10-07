@@ -2,18 +2,37 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:2563EB,100:7C3AED&text=Adryan%20Francisco&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=58&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000000,45:0F172A,100:2563EB&text=Adryan%20Francisco&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Backend&descSize=20&descAlignY=58&animation=fadeIn"
   alt="Adryan Francisco"
 />
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+TypeScript;C%23+%7C+.NET+%7C+Node.js;Desenvolvendo+solu%C3%A7%C3%B5es+modernas+e+escal%C3%A1veis"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=820&lines=C%23+%7C+.NET+%7C+Node.js+%7C+TypeScript;React+%7C+Next.js+%7C+PostgreSQL+%7C+Docker;APIs+REST+%7C+SaaS+%7C+Integra%C3%A7%C3%B5es;Desenvolvendo+solu%C3%A7%C3%B5es+reais+para+produ%C3%A7%C3%A3o"
   alt="Apresentação profissional"
 />
 
-<img src="https://komarev.com/ghpvc/?username=Adryan-Francisco&style=flat-square&color=7C3AED&label=Visualizações" alt="Visualizações" />
+<br/>
 
-<img src="https://img.shields.io/github/followers/Adryan-Francisco?style=flat-square&logo=github&label=Seguidores&color=2563EB" alt="Seguidores" />
+<a href="mailto:adryanfrancisco62@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/adryan-francisco">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=flat-square&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://portfolio-adryanf.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfólio-0F172A?style=flat-square&logo=vercel&logoColor=white"
+    alt="Portfólio"
+  />
+</a>
 
 </div>
 
@@ -21,25 +40,96 @@
 
 ## Sobre mim
 
-Sou **Desenvolvedor Full Stack** e estudante de **Análise e Desenvolvimento de Sistemas**.
+Sou **Desenvolvedor Full Stack com foco em Backend** e estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Desenvolvo aplicações web, APIs e sistemas SaaS, atuando desde a interface até o banco de dados e deploy em produção.
+Atuo no desenvolvimento de **aplicações web, APIs REST, sistemas SaaS e integrações**, participando de todo o ciclo da solução: estruturação do backend, modelagem de dados, regras de negócio, frontend, integrações externas e deploy.
 
-Atualmente trabalho principalmente com:
-
-- React, Next.js e TypeScript
-- Node.js, C# e .NET
-- PostgreSQL, Supabase e Prisma
-- Docker, Git e servidores VPS
+Tenho interesse em projetos que envolvam sistemas reais, produtos em produção e desafios relacionados a arquitetura, performance, segurança e escalabilidade.
 
 ---
 
-##  Tecnologias
+## Experiência prática
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Backend e APIs
+
+Experiência no desenvolvimento e integração de serviços backend para aplicações web e sistemas SaaS.
+
+**Atuação**
+
+- Desenvolvimento de APIs REST
+- Backend com C#, .NET e Node.js
+- Autenticação e autorização
+- Regras de negócio
+- Integrações com APIs externas
+
+</td>
+
+<td width="50%" valign="top">
+
+### Banco de dados e arquitetura
+
+Atuação na estruturação de dados e organização de aplicações voltadas para sistemas reais.
+
+**Atuação**
+
+- Modelagem de banco de dados
+- PostgreSQL e Supabase
+- Prisma ORM
+- Estruturação de sistemas SaaS
+- Organização e manutenção de aplicações
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Integrações e automações
+
+Implementação de integrações responsáveis por conectar aplicações a serviços externos e automatizar processos.
+
+**Atuação**
+
+- Integrações com meios de pagamento
+- Integrações com WhatsApp
+- Notificações
+- Automações de processos
+- Integração com serviços externos
+
+</td>
+
+<td width="50%" valign="top">
+
+### Frontend e infraestrutura
+
+Experiência no desenvolvimento de interfaces e na publicação e manutenção de aplicações.
+
+**Atuação**
+
+- Frontend com React e Next.js
+- Dashboards administrativos
+- TypeScript e JavaScript
+- Containerização com Docker
+- Deploy em servidores VPS
+
+</td>
+
+</tr>
+</table>
+
+## Tecnologias
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,dotnet,cs,nodejs,prisma,postgres,supabase,docker,git,github&perline=8"
+  src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,react,nextjs,postgres,prisma,docker,git,github,supabase,js,html,css,tailwind&perline=8"
   alt="Tecnologias utilizadas"
 />
 
@@ -47,15 +137,28 @@ Atualmente trabalho principalmente com:
 
 ---
 
-##  Projetos em destaque
+## Projetos em destaque
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### BarberFlow
 
-Plataforma SaaS para gestão de barbearias, com agendamentos, clientes, profissionais, finanças e integração com WhatsApp.
+Plataforma **SaaS para gestão de barbearias**, desenvolvida para centralizar agendamentos, clientes, profissionais, serviços, horários e gestão financeira.
+
+O projeto foi pensado para funcionar em ambiente real de produção, com foco em organização, automação e experiência do usuário.
+
+**Principais recursos**
+
+- Agendamento online
+- Gestão de clientes e profissionais
+- Controle de horários e indisponibilidades
+- Notificações e lembretes
+- Gestão financeira
+- Relatórios e indicadores
+- Integrações externas
 
 **Tecnologias**
 
@@ -64,7 +167,10 @@ Plataforma SaaS para gestão de barbearias, com agendamentos, clientes, profissi
 <br/>
 
 <a href="https://appbarberflow.com.br">
-  <img src="https://img.shields.io/badge/Acessar_projeto-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar BarberFlow" />
+  <img
+    src="https://img.shields.io/badge/Acessar_projeto-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Acessar BarberFlow"
+  />
 </a>
 
 </td>
@@ -73,7 +179,17 @@ Plataforma SaaS para gestão de barbearias, com agendamentos, clientes, profissi
 
 ### SIC
 
-API de gerenciamento de produtos, categorias e clientes, desenvolvida com arquitetura DDD e .NET 8.
+API para gerenciamento de **produtos, categorias e clientes**, desenvolvida com **C# e .NET 8**.
+
+O projeto utiliza conceitos de arquitetura, organização de domínio, documentação de endpoints e testes automatizados.
+
+**Principais pontos**
+
+- Estrutura organizada por domínio
+- API REST
+- Entity Framework Core
+- Documentação com Swagger
+- Testes automatizados
 
 **Tecnologias**
 
@@ -82,18 +198,25 @@ API de gerenciamento de produtos, categorias e clientes, desenvolvida com arquit
 <br/>
 
 <a href="https://github.com/Adryan-Francisco/SIC">
-  <img src="https://img.shields.io/badge/Ver_repositório-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Ver SIC" />
+  <img
+    src="https://img.shields.io/badge/Ver_repositório-1D4ED8?style=for-the-badge&logo=github&logoColor=white"
+    alt="Ver SIC"
+  />
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-###  Controle de Estoque
+### Controle de Estoque
 
-Sistema web para gerenciamento de produtos, entradas, saídas e indicadores de estoque.
+Sistema web para gerenciamento de produtos, entradas, saídas e acompanhamento de estoque.
+
+Permite organizar movimentações de produtos e visualizar informações importantes da operação.
 
 **Tecnologias**
 
@@ -102,16 +225,21 @@ Sistema web para gerenciamento de produtos, entradas, saídas e indicadores de e
 <br/>
 
 <a href="https://github.com/Adryan-Francisco/controle-estoque">
-  <img src="https://img.shields.io/badge/Ver_repositório-F7DF1E?style=for-the-badge&logo=github&logoColor=black" alt="Ver Controle de Estoque" />
+  <img
+    src="https://img.shields.io/badge/Ver_repositório-2563EB?style=for-the-badge&logo=github&logoColor=white"
+    alt="Ver Controle de Estoque"
+  />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-###  Controle de Imóveis Rurais
+### Controle de Imóveis Rurais
 
-Aplicação para cadastro, consulta e organização de propriedades rurais.
+Aplicação web para **cadastro, consulta e organização de propriedades rurais**.
+
+O sistema centraliza informações das propriedades em uma interface simples e de fácil utilização.
 
 **Tecnologias**
 
@@ -120,12 +248,39 @@ Aplicação para cadastro, consulta e organização de propriedades rurais.
 <br/>
 
 <a href="https://github.com/Adryan-Francisco/controle-imoveis-react">
-  <img src="https://img.shields.io/badge/Ver_repositório-20232A?style=for-the-badge&logo=github&logoColor=white" alt="Ver Controle de Imóveis Rurais" />
+  <img
+    src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white"
+    alt="Ver Controle de Imóveis Rurais"
+  />
 </a>
 
 </td>
+
 </tr>
 </table>
+
+---
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas**
+
+Em formação, com foco em desenvolvimento de software, arquitetura, banco de dados, APIs e aplicações web.
+
+---
+
+## Oportunidades
+
+Tenho interesse em oportunidades nas áreas de:
+
+- **Desenvolvimento Full Stack**
+- **Desenvolvimento Backend**
+- **C# / .NET**
+- **Node.js**
+- **React / TypeScript**
+- **APIs e sistemas web**
+
+Busco ambientes onde eu possa contribuir com projetos reais, evoluir tecnicamente e aprofundar meus conhecimentos em backend, arquitetura, banco de dados e desenvolvimento de produtos.
 
 ---
 
@@ -133,31 +288,27 @@ Aplicação para cadastro, consulta e organização de propriedades rurais.
 
 <div align="center">
 
-Meu portfólio reúne meus principais projetos, experiências e habilidades como desenvolvedor.
+<p>
+Confira meus principais projetos, experiências e habilidades.
+</p>
 
-<br/><br/>
+<br/>
 
 <a href="https://portfolio-adryanf.vercel.app/">
-  <img src="https://img.shields.io/badge/Acessar_portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar portfólio" />
+  <img
+    src="https://img.shields.io/badge/Acessar_portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Acessar portfólio"
+  />
 </a>
 
 <a href="https://github.com/Adryan-Francisco/Portfolio">
-  <img src="https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do portfólio" />
+  <img
+    src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositório do portfólio"
+  />
 </a>
 
 </div>
-
----
-
-## Contribuições em ação
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif"
-    alt="Space shooter contribution graph"
-    width="100%"
-  />
-</p>
 
 ---
 
@@ -166,25 +317,38 @@ Meu portfólio reúne meus principais projetos, experiências e habilidades como
 <div align="center">
 
 <p>
-Aberto a oportunidades, projetos e novas conexões profissionais.
+<strong>Aberto a oportunidades profissionais, projetos e novas conexões.</strong>
 </p>
 
+<br/>
+
 <a href="mailto:adryanfrancisco62@gmail.com">
-  <img src="https://img.shields.io/badge/Enviar_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
+  <img
+    src="https://img.shields.io/badge/Entrar_em_contato-2563EB?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Enviar email"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/adryan-francisco">
-  <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
-<br/><br/>
-
-<strong>Obrigado por visitar meu perfil.</strong>
+<a href="https://portfolio-adryanf.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfólio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfólio"
+  />
+</a>
 
 </div>
 
+<br/>
+
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,50:2563EB,100:7C3AED&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,45:0F172A,100:2563EB&section=footer"
   alt="Rodapé"
 />
