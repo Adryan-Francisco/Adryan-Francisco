@@ -263,6 +263,18 @@ O sistema centraliza informações das propriedades em uma interface simples e d
 
 ---
 
+## Contribuições em ação
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif"
+    alt="Animação de contribuições do GitHub"
+    width="100%"
+  />
+</p>
+
+---
+
 ## Formação
 
 **Análise e Desenvolvimento de Sistemas**
@@ -318,6 +330,13 @@ Confira também meus principais projetos, experiências e habilidades.
   <img
     src="https://img.shields.io/badge/Acessar_portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Acessar portfólio"
+  />
+</a>
+
+<a href="https://github.com/Adryan-Francisco/Portfolio">
+  <img
+    src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositório do portfólio"
   />
 </a>
 
