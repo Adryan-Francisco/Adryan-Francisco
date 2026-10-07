@@ -124,6 +124,8 @@ Experiência no desenvolvimento de interfaces e na publicação e manutenção d
 </tr>
 </table>
 
+---
+
 ## Tecnologias
 
 <div align="center">
@@ -284,40 +286,16 @@ Busco ambientes onde eu possa contribuir com projetos reais, evoluir tecnicament
 
 ---
 
-## Portfólio
-
-<div align="center">
-
-<p>
-Confira meus principais projetos, experiências e habilidades.
-</p>
-
-<br/>
-
-<a href="https://portfolio-adryanf.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/Acessar_portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Acessar portfólio"
-  />
-</a>
-
-<a href="https://github.com/Adryan-Francisco/Portfolio">
-  <img
-    src="https://img.shields.io/badge/Ver_repositório-0F172A?style=for-the-badge&logo=github&logoColor=white"
-    alt="Repositório do portfólio"
-  />
-</a>
-
-</div>
-
----
-
-## Contato
+## Contato e portfólio
 
 <div align="center">
 
 <p>
 <strong>Aberto a oportunidades profissionais, projetos e novas conexões.</strong>
+</p>
+
+<p>
+Confira também meus principais projetos, experiências e habilidades.
 </p>
 
 <br/>
@@ -338,8 +316,8 @@ Confira meus principais projetos, experiências e habilidades.
 
 <a href="https://portfolio-adryanf.vercel.app/">
   <img
-    src="https://img.shields.io/badge/Portfólio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfólio"
+    src="https://img.shields.io/badge/Acessar_portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Acessar portfólio"
   />
 </a>
 
